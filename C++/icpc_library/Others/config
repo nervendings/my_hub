@@ -1,0 +1,11 @@
+<常用头文件> <head.cpp>
+<快速读写> <fastio.cpp>
+<快速读写加强版> <fastio-final.cpp>
+<LIS> <lis.cpp>
+<莫队算法> <mo-algorithm.cpp>
+<大随机数> <random-ull.cpp>
+<大质数> <modp.cpp>
+<编译器位操作> <bitwise.cpp>
+<最大子矩阵算法> <maxsubmatirx.cpp>
+<约瑟夫环算法> <joseph-ring.cpp>
+<java高精度> <java.cpp>

@@ -1,0 +1,10 @@
+<KMP算法> <kmp.cpp>
+<manacher算法> <manacher.cpp>
+<后缀数组-倍增> <sa-logn.cpp>
+<最小表示算法> <minimum-representation.cpp>
+<字符串哈希> <hash.cpp>
+<自动机-tire树> <trie.cpp>
+<自动机-tire图> <trie-graph.cpp>
+<自动机-AC自动机> <AC-Automation.cpp>
+<自动机-后缀自动机> <Suffix-automaton.cpp>
+<自动机-回文自动机> <Palindromic-automaton.cpp>
